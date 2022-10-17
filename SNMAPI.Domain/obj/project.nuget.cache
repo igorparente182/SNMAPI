@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKLl1hYqSWpTDMmvqmjP8WYJuk0JoO+vVKwLP46nfnxpZzKRYFmb4zvLBpnqqV03QOswGuTfmjY8DFvFzuSSrQ==",
+  "success": true,
+  "projectFilePath": "E:\\SistemasAVP\\FichaInscricaoNovo\\SNMAPI\\SNMAPI.Domain\\SNMAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igor\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
